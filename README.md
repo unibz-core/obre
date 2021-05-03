@@ -1,6 +1,6 @@
 # ObRE: Ontology-based Requirements Engineering
 
-The ObRE method aims to systematize the elicitation and analysis of requirements, by basing elicitation and analysis on an ontological account for a class of requirements. ObRE is intended to help a requirements analyst cope with abstract requirements, such as privacy, fairness and ethical requirements, by “semantically unpacking” requirements concepts thereby enabling requirements activities.
+The ObRE method aims to systematize the elicitation and analysis of requirements, by basing elicitation and analysis on an ontological account for a class of requirements. 
 
 ## Project Structure
 
